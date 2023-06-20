@@ -1,3 +1,4 @@
+
 https://github.com/liamkurak/SeagateWarranty/blob/main/README.md
 
 **If there are files that are difficult to recover, then just skip them without making too many attempts.**
