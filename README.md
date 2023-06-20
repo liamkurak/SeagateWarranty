@@ -8,6 +8,9 @@ Seagate Recovery Services
 * SN: ZA1JDTDE
 
 
+
+# ***If the file is hard to read (or time costly), then just skip it!***
+
 I know that data recovery is difficult.
 
 And I am prepared for the possibility that the data may not be recovered.
@@ -35,7 +38,11 @@ Everything else is optional.
 ## Photos & data
 `W:\留着装`
 
+Try as much as possible
 
 ## optional
 * Other folders with a pentagram "★" symbol after them.
 * such as "档案★★".
+
+
+# **If the file is hard to read (or time costly), then just skip it!***
