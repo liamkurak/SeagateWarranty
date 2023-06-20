@@ -9,7 +9,7 @@ Seagate Recovery Services
 
 
 
-# ***If the file is hard to read (or time costly), then just skip it!***
+# ***If the file is difficult to read, or takes too long (high time cost), then just skip it!!***
 
 I know that data recovery is difficult.
 
@@ -45,4 +45,7 @@ Try as much as possible
 * such as "档案★★".
 
 
-# **If the file is hard to read (or time costly), then just skip it!***
+# **If the file is difficult to read, or takes too long (high time cost), then just skip it!***
+
+again, thank you for trying.
+
