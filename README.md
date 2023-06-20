@@ -16,7 +16,7 @@ I know that data recovery is difficult.
 And I am prepared for the possibility that the data may not be recovered.
 And go for warranty replacement.
 
-## **The files that need to be recovered.**
+## **The files that need to be recovered：**
 
 ## Photos & Videos
 `W:\相册★★★★★★★★★`
